@@ -21,7 +21,7 @@ Joystick 입력을 ERP42 제어 명령으로 변환하고, RS232(UART) 기반 Se
 ## 시스템 구성
 
 <p align="center">
-<img src="images/System configuration.png" width="900">
+<img src="images/System configuration.png" width="650">
 </p>
 
 ---
