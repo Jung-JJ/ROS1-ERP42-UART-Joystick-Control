@@ -9,7 +9,12 @@ Joystick 입력을 ERP42 제어 명령으로 변환하고, RS232(UART) 기반 Se
 또한 ERP42에서 송신하는 차량 상태 데이터를 수신하여 ROS Topic으로 Publish하도록 구현하였으며, ROS Publisher/Subscriber 구조와 ERP42 Serial Protocol을 분석하며 통신 과정을 이해하였습니다.
 
 ---
+## Demo
 
+**[ERP42 Steering Test](https://youtube.com/shorts/UNrw53yaet0?feature=share)**
+
+https://youtu.be/영상링크
+---
 ## 실험 플랫폼
 
 <p align="center">
