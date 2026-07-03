@@ -10,7 +10,8 @@ Joystick 입력을 ERP42 제어 명령으로 변환하고, RS232(UART) 기반 Se
 
 ---
 ## Demo
-
+ROS1 기반 Joystick 입력을 ERP42 제어 명령으로 변환하여,
+RS232(UART) Serial Protocol을 통해 차량의 조향을 수행한 시연 영상입니다.
 **[ERP42 Steering Test](https://youtube.com/shorts/UNrw53yaet0?feature=share)**
 
 ---
