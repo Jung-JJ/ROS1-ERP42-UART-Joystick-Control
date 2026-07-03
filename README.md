@@ -13,7 +13,6 @@ Joystick 입력을 ERP42 제어 명령으로 변환하고, RS232(UART) 기반 Se
 
 **[ERP42 Steering Test](https://youtube.com/shorts/UNrw53yaet0?feature=share)**
 
-https://youtu.be/영상링크
 ---
 ## 실험 플랫폼
 
